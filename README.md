@@ -2,7 +2,7 @@
 # Projeto MarcosMidi desenvolvido durante o curso da Alura em parceria com o programa Inova Maranhão.
 
 MarcosMidi é uma aplicação web que simula um controlador MIDI. O projeto permite aos usuários criar e tocar suas próprias melodias usando teclas virtuais, proporcionando uma experiência interativa e divertida sobre música digital. Durante o desenvolvimento, aprendi a manipular eventos do teclado e mouse, e a integrar sons para uma resposta imediata ao usuário.
-<img src="" alt="imagem banner sobre o projeto">
+<img src="Banner-projeto-marcosmidi.png" alt="imagem banner sobre o projeto">
 
 #### Link de visualização do projeto
 [Clique aqui para ver o projeto](https://marcoskdev.github.io/projeto-marcosmidi-curso-alura/)
